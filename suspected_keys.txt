@@ -1,0 +1,79 @@
+NULL PREMIUM UUIDS
+COUNT: 46 items
+-----------------------------------------------------------------------------
+The key cannot be extracted due to encryption features. 
+The UUIDs dump was obtained by analyzing the CCCryptorCreate() function.
+
+There are two ways to get a dump of UUIDs, using frida, 
+    which is more complicated, and also using lldb.
+
+The UUIDs dump method only works on the 62nd build of the application, 
+    however, due to bugs, it is impossible to get a premium in this build.
+
+░▄▄░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄▄░
+████░░░░░░░░░░░░░░░░░░░░░░░░░░░░████
+▀███▄░░░░░░░░░░▄▄▄▄▄▄░░░░░░░░░░▄███▀
+░░░▀██▄██▀░▄██▀▀▀▀▀▀▀▀██▄░▀██▄██▀░░░
+░░░░███████▀▄▄▄▄▄██▄▄▄▄▄▀███████░░░░
+░░░░█▀████████████████████████▀█░░░░
+░░░░░░░▀████████████████████▀░░░░░░░
+░░░░░░░░██▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀███░░░░░░░
+░░░░░░░░▀█░░▄▄██▄░░▄██▄▄░░███░░░░░░░
+░░░░░░░░▀█░░█████░░█████░░████░░░░░░
+░░░░░░░░░█▄░░▀▀▀░▄▄░▀▀▀░░▄████░░░░░░
+░░░░░░░░░░██▄▄░░████░░▄▄██████░░░░░░
+░░░░░░░░░▄████░░████░░████████░░░░░░
+░░░░░░░▄████▀█░░░░░░░░█▀█████░░░░░░░
+░░░░▄█████▀█▄▀▀▀█▀▀█▀▀▀▄███████▄░░░░
+░░▀▀▀▀▀░░░░░█▄░░▀░░▀░░▄█▀███░▀▀▀▀▀░░
+░░░░░░░░░░░░░▀████████▀░░░▀▀░░░░░░░░
+
+dev: @retr0dev
+-----------------------------------------------------------------------------
+
+UUIDS:
+
+7ED31CE4-17CC-4256-9F96-376EE1D70E50
+5526369B-8963-4CD0-B229-B8B6F27499FE
+19DA4CCB-DB61-4E6E-AB93-E755A41D75C1
+7021853E-E34F-4CBE-BFD3-5B51FD06F08E
+75427297-7CD2-4CCE-B4EB-8C35B08385B5
+8872276A-598B-4984-8F7B-15A769EE6EAE
+452EEB53-E2AF-4BFD-AA66-715C88B8006E
+155CC439-DBE7-4E01-A589-6BEE5A616D1F
+531F7C75-9A09-4A75-92F3-1B2146AC342E
+76E4D23B-DB3F-4E7A-AF55-3E5E29A577AE
+1DAF335A-A50D-4683-8F9F-D53A2F8C71D0
+6713B3AA-D5F6-4D36-8A5B-7753289B55FE
+5B8BEFAC-51B4-4963-A220-07D01855B229
+542E3921-490C-46EA-938B-9394582F6B80
+2F3017A8-4452-40FF-9607-0D4CE598D359
+B39495B6-A13D-4560-A27B-1E367CCC7252
+26A11F53-47E7-4231-A06A-029A20A05530
+A54FD8C0-9A91-4CF7-832D-CB576CE0C562
+AB79CEAA-E31C-43FA-B111-039DD5B6B228
+0B7D3D77-9D9F-44D4-9402-31921248828D
+1F58548C-5585-47D2-B3B8-FE5E27ADC830
+E41CDE1E-61DB-4E19-BC9D-A9114300803B
+C55E5D70-6503-4B22-8CD9-F128170F1790
+684514D6-2FAC-413F-BB3E-5942E83D5E68
+0D333B9F-9271-4F01-9506-55F0BFFA68BD
+DF6F14E0-43DF-42C5-B9B5-494F23D6B435
+4439EFD8-F424-406C-A5B0-45590A145DDD
+BCC92852-E1EF-452A-9117-DBAA906896A9
+CA6E4448-D293-4D98-ABAB-418273A1ABB1
+AE5ED32F-B72A-4EA2-A8AD-F851E09156D8
+4CDC820E-4DA5-4275-B2F8-0062BFBA69B0
+4FF50249-C365-4DE1-AFFD-293A52010896
+83C0B2B5-F16F-4A12-BE2A-5E09FCD98B8B
+05D143E0-9159-40F9-8170-216C3492E72A
+E6FE6FC4-948C-49DA-B939-1D1E2C60254B
+0B993C85-C08A-4085-AA2B-9CEEE80FFBCD
+E1B5FCB9-9912-4E30-919A-0B6B148EDB1E
+0E2A5F51-970C-4F0C-B659-928BC847CB23
+E533F294-9DA4-4599-B6E1-550D30E91973
+A1B2C8C4-90C2-4002-8C3B-E6EA417C8326
+DC7E655F-3C74-4EBB-B2FD-D40A96A1CC99
+7220CB0B-CE15-406E-AEEF-6D9ABE105EC0
+813B756E-0CFB-40C0-A208-9AFF45ED652D
+14EB0B90-82BF-4571-84F5-6801982B97BA
